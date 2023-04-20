@@ -1,15 +1,15 @@
 @font-face {
   font-family: Modak;
-  src: url(Fonts/Modak-Regular.ttf);
+  src: url("Fonts/Modak-Regular.ttf") format("truetype");
 }
 
 @font-face {
   font-family: Moranga;
-  src: url(Fonts/Moranga/Latinotype\ -\ Moranga\ Regular.otf);
+  src: url("Fonts/Moranga/Latinotype\ -\ Moranga\ Regular.otf");
 }
 @font-face {
   font-family: Moranga-Black;
-  src: url(Fonts/Moranga/Latinotype\ -\ Moranga\ Black.otf);
+  src: url("Fonts/Moranga/Latinotype\ -\ Moranga\ Black.otf");
 }
 
 body{
